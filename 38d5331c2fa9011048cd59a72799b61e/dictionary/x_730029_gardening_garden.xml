@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Garden" max_length="40" name="x_730029_gardening_garden" type="collection">
+        <element label="City" max_length="32" name="city" reference="x_730029_gardening_city" type="reference"/>
+        <element label="Owner" max_length="32" name="owner" reference="sys_user" type="reference"/>
+        <element choice="1" label="Technique" max_length="40" name="technique" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Square Foot Gardening" sequence="10" value="square_foot_gardening"/>
+                <element inactive_on_update="false" label="Hybrid" sequence="20" value="hybrid"/>
+                <element inactive_on_update="false" label="Others" sequence="30" value="others"/>
+            </choice>
+        </element>
+        <index name="index">
+            <element name="owner"/>
+        </index>
+    </element>
+</database>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Planter" max_length="40" name="x_730029_gardening_planter" type="collection">
+        <element choice="1" label="Exposition" max_length="40" name="exposition" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Full sun" sequence="10" value="full_sun"/>
+                <element inactive_on_update="false" label="Part shade" sequence="20" value="part_shade"/>
+                <element inactive_on_update="false" label="full shade" sequence="30" value="full_shade"/>
+            </choice>
+        </element>
+        <element label="Garden" max_length="32" name="garden" reference="x_730029_gardening_garden" type="reference"/>
+        <element label="Lenght (ft)" max_length="20" name="lenght" type="decimal"/>
+        <element label="Location" max_length="40" name="location" type="string"/>
+        <element label="Planter type" max_length="32" name="planter_type" reference="x_730029_gardening_planter_type" type="reference"/>
+        <element label="Reference" max_length="40" name="reference" type="string"/>
+        <element label="Square foot" max_length="20" name="square_foot" type="decimal"/>
+        <element label="Width (ft)" max_length="20" name="width_ft" type="decimal"/>
+        <index name="index">
+            <element name="planter_type"/>
+        </index>
+        <index name="index2">
+            <element name="garden"/>
+        </index>
+    </element>
+</database>

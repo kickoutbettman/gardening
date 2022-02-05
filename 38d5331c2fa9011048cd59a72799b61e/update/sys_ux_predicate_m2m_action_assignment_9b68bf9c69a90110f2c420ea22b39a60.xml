@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_predicate_m2m_action_assignment">
+    <sys_ux_predicate_m2m_action_assignment action="INSERT_OR_UPDATE">
+        <declarative_action_assignment display_value="navigation">d46f400473211010c342d5fdbdf6a7cf</declarative_action_assignment>
+        <predicate display_value="My Request - task predicate">1768bf9c37a90110f81b73504b7d5464</predicate>
+        <sys_class_name>sys_ux_predicate_m2m_action_assignment</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-02-04 22:01:17</sys_created_on>
+        <sys_id>9b68bf9c69a90110f2c420ea22b39a60</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Gardening" source="x_730029_gardening">38d5331c2fa9011048cd59a72799b61e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gardening">38d5331c2fa9011048cd59a72799b61e</sys_scope>
+        <sys_update_name>sys_ux_predicate_m2m_action_assignment_9b68bf9c69a90110f2c420ea22b39a60</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2022-02-04 22:01:17</sys_updated_on>
+    </sys_ux_predicate_m2m_action_assignment>
+</record_update>

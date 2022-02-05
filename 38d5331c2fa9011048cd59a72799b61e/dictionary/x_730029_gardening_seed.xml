@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Seed" max_length="40" name="x_730029_gardening_seed" type="collection">
+        <element label="Harvesting schedule" max_length="40" name="harvesting_schedule" type="string"/>
+        <element label="Name" max_length="40" name="name" type="string"/>
+        <element label="Plant" max_length="32" name="plant" reference="x_730029_gardening_plant" type="reference"/>
+        <element label="Seeding schedule" max_length="40" name="seeding_schedule" type="string"/>
+        <element label="Transplant schedule" max_length="40" name="transplant_schedule" type="string"/>
+        <index name="index">
+            <element name="plant"/>
+        </index>
+    </element>
+</database>

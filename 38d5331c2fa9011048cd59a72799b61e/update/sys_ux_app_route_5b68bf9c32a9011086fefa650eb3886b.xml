@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="INSERT_OR_UPDATE">
+        <app_config display_value="Gardening Config">d768bf9c80a901101545d50a36d9065f</app_config>
+        <description/>
+        <fields/>
+        <icon/>
+        <name>Preferences</name>
+        <optional_parameters/>
+        <order>0</order>
+        <parent_macroponent display_value="Settings Page">5f68bf9c74a90110675467daffbb406b</parent_macroponent>
+        <parent_macroponent_composition_element_id>tab_set_1</parent_macroponent_composition_element_id>
+        <route_type>cketv4fts00003g8yxah9e3hs</route_type>
+        <screen_type display_value="Preferences">d768bf9c19a9011066da83231e6eaa6b</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-02-04 22:01:09</sys_created_on>
+        <sys_id>5b68bf9c32a9011086fefa650eb3886b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Preferences</sys_name>
+        <sys_package display_value="Gardening" source="x_730029_gardening">38d5331c2fa9011048cd59a72799b61e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gardening">38d5331c2fa9011048cd59a72799b61e</sys_scope>
+        <sys_update_name>sys_ux_app_route_5b68bf9c32a9011086fefa650eb3886b</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2022-02-04 22:01:09</sys_updated_on>
+    </sys_ux_app_route>
+    <sys_translated_text action="delete_multiple" query="documentkey=5b68bf9c32a9011086fefa650eb3886b"/>
+</record_update>

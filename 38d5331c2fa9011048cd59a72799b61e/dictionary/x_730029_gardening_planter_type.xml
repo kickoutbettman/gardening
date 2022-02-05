@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Planter type" max_length="40" name="x_730029_gardening_planter_type" type="collection">
+        <element choice="3" default="outdoor" label="Indoor/Outdoor" max_length="40" name="indoor_outdoor" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Indoor" sequence="10" value="indoor"/>
+                <element inactive_on_update="false" label="Outdoor" sequence="20" value="outdoor"/>
+            </choice>
+        </element>
+        <element label="Name" max_length="40" name="name" type="string"/>
+    </element>
+</database>

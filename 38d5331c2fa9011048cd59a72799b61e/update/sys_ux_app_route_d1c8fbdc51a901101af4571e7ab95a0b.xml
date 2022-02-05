@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="INSERT_OR_UPDATE">
+        <app_config display_value="Gardening Dashboard Config">95c8fbdc7ba90110dcd926093bd68c0d</app_config>
+        <description/>
+        <fields>sysId</fields>
+        <icon/>
+        <name>Dashboard</name>
+        <optional_parameters/>
+        <order>0</order>
+        <parent_macroponent display_value="Agent Workspace App Shell">c276387cc331101080d6d3658940ddd2</parent_macroponent>
+        <parent_macroponent_composition_element_id/>
+        <route_type>dashboard</route_type>
+        <screen_type display_value="Dashboard">55c8fbdc40a90110ddb2ba604f2cd30b</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>jdesrosiers</sys_created_by>
+        <sys_created_on>2022-02-04 22:02:38</sys_created_on>
+        <sys_id>d1c8fbdc51a901101af4571e7ab95a0b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Dashboard</sys_name>
+        <sys_package display_value="Gardening" source="x_730029_gardening">38d5331c2fa9011048cd59a72799b61e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gardening">38d5331c2fa9011048cd59a72799b61e</sys_scope>
+        <sys_update_name>sys_ux_app_route_d1c8fbdc51a901101af4571e7ab95a0b</sys_update_name>
+        <sys_updated_by>jdesrosiers</sys_updated_by>
+        <sys_updated_on>2022-02-04 22:02:38</sys_updated_on>
+    </sys_ux_app_route>
+    <sys_translated_text action="delete_multiple" query="documentkey=d1c8fbdc51a901101af4571e7ab95a0b"/>
+</record_update>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_screen_type">
+    <sys_ux_screen_type action="INSERT_OR_UPDATE">
+        <description/>
+        <name>Analytics Center</name>
+        <sys_class_name>sys_ux_screen_type</sys_class_name>
+        <sys_created_by>jdesrosiers</sys_created_by>
+        <sys_created_on>2022-02-04 22:02:38</sys_created_on>
+        <sys_id>55c8fbdc1fa901101e84a0703490ab0c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Analytics Center</sys_name>
+        <sys_package display_value="Gardening" source="x_730029_gardening">38d5331c2fa9011048cd59a72799b61e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gardening">38d5331c2fa9011048cd59a72799b61e</sys_scope>
+        <sys_update_name>sys_ux_screen_type_55c8fbdc1fa901101e84a0703490ab0c</sys_update_name>
+        <sys_updated_by>jdesrosiers</sys_updated_by>
+        <sys_updated_on>2022-02-04 22:02:38</sys_updated_on>
+    </sys_ux_screen_type>
+    <sys_translated_text action="delete_multiple" query="documentkey=55c8fbdc1fa901101e84a0703490ab0c"/>
+</record_update>

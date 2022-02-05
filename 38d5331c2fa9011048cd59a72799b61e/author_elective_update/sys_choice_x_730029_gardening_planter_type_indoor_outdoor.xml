@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="indoor_outdoor" table="x_730029_gardening_planter_type" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>indoor_outdoor</element>
+            <name>x_730029_gardening_planter_type</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>jdesrosiers</sys_created_by>
+            <sys_created_on>2022-02-04 22:33:54</sys_created_on>
+            <sys_id>ebeff3d42fe9011048cd59a72799b600</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>indoor_outdoor</sys_name>
+            <sys_package display_value="Gardening" source="x_730029_gardening">38d5331c2fa9011048cd59a72799b61e</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Gardening">38d5331c2fa9011048cd59a72799b61e</sys_scope>
+            <sys_update_name>sys_choice_x_730029_gardening_planter_type_indoor_outdoor</sys_update_name>
+            <sys_updated_by>jdesrosiers</sys_updated_by>
+            <sys_updated_on>2022-02-04 22:33:54</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>indoor_outdoor</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Indoor</label>
+            <language>en</language>
+            <name>x_730029_gardening_planter_type</name>
+            <sequence>10</sequence>
+            <synonyms/>
+            <sys_created_by>jdesrosiers</sys_created_by>
+            <sys_created_on>2022-02-04 22:33:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>27eff3d42fe9011048cd59a72799b600</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jdesrosiers</sys_updated_by>
+            <sys_updated_on>2022-02-04 22:33:54</sys_updated_on>
+            <value>indoor</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>indoor_outdoor</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Outdoor</label>
+            <language>en</language>
+            <name>x_730029_gardening_planter_type</name>
+            <sequence>20</sequence>
+            <synonyms/>
+            <sys_created_by>jdesrosiers</sys_created_by>
+            <sys_created_on>2022-02-04 22:33:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2befb3d42fe9011048cd59a72799b6ec</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jdesrosiers</sys_updated_by>
+            <sys_updated_on>2022-02-04 22:33:54</sys_updated_on>
+            <value>outdoor</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

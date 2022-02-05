@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="City" max_length="40" name="x_730029_gardening_city" type="collection">
+        <element label="Name" max_length="40" name="name" type="string"/>
+        <element label="Zone" max_length="32" name="zone" reference="x_730029_gardening_zone" type="reference"/>
+        <index name="index">
+            <element name="zone"/>
+        </index>
+    </element>
+</database>

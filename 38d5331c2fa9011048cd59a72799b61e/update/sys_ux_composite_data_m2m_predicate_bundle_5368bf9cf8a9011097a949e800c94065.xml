@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_data_m2m_predicate_bundle">
+    <sys_ux_composite_data_m2m_predicate_bundle action="INSERT_OR_UPDATE">
+        <dataset display_value="Custom Portal Catalog Item page - Related Items dataset">df68bf9c72a901101c4829c56ed55166</dataset>
+        <order/>
+        <predicate_bundle display_value="Custom portal - Related items">1b68bf9c81a901107cac0a67777fec65</predicate_bundle>
+        <sys_class_name>sys_ux_composite_data_m2m_predicate_bundle</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-02-04 22:01:09</sys_created_on>
+        <sys_id>5368bf9cf8a9011097a949e800c94065</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Gardening" source="x_730029_gardening">38d5331c2fa9011048cd59a72799b61e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gardening">38d5331c2fa9011048cd59a72799b61e</sys_scope>
+        <sys_update_name>sys_ux_composite_data_m2m_predicate_bundle_5368bf9cf8a9011097a949e800c94065</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2022-02-04 22:01:09</sys_updated_on>
+    </sys_ux_composite_data_m2m_predicate_bundle>
+</record_update>

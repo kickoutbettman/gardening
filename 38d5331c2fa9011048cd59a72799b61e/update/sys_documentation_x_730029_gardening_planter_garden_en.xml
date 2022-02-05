@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="garden" label="Garden" language="en" table="x_730029_gardening_planter">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>garden</element>
+            <help/>
+            <hint/>
+            <label>Garden</label>
+            <language>en</language>
+            <name>x_730029_gardening_planter</name>
+            <plural>Gardens</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>jdesrosiers</sys_created_by>
+            <sys_created_on>2022-02-04 22:37:37</sys_created_on>
+            <sys_id>06c000282fe9011048cd59a72799b640</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Garden</sys_name>
+            <sys_package display_value="Gardening" source="x_730029_gardening">38d5331c2fa9011048cd59a72799b61e</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Gardening">38d5331c2fa9011048cd59a72799b61e</sys_scope>
+            <sys_update_name>sys_documentation_x_730029_gardening_planter_garden_en</sys_update_name>
+            <sys_updated_by>jdesrosiers</sys_updated_by>
+            <sys_updated_on>2022-02-04 22:37:37</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

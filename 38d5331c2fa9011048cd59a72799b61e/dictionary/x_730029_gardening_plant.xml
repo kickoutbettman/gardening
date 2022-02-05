@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Plant" max_length="40" name="x_730029_gardening_plant" type="collection">
+        <element label="Dislike" max_length="4000" name="dislike" type="glide_list"/>
+        <element label="Harvest potential" max_length="40" name="harvest_potential" type="integer"/>
+        <element label="Like" max_length="4000" name="like" type="glide_list"/>
+        <element label="Name" max_length="40" name="name" type="string"/>
+        <element choice="1" label="Square foot gardening number" max_length="40" name="square_foot_gardening_number" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="1" sequence="10" value="1"/>
+                <element inactive_on_update="false" label="2" sequence="20" value="2"/>
+                <element inactive_on_update="false" label="4" sequence="30" value="4"/>
+                <element inactive_on_update="false" label="9" sequence="40" value="9"/>
+                <element inactive_on_update="false" label="16" sequence="50" value="16"/>
+            </choice>
+        </element>
+        <element choice="1" label="Sun exposure" max_length="40" name="sun_exposure" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Direct sun" sequence="10" value="direct_sun"/>
+                <element inactive_on_update="false" label="Part shade" sequence="20" value="part_shade"/>
+                <element inactive_on_update="false" label="Full shade" sequence="30" value="full_shade"/>
+            </choice>
+        </element>
+        <element choice="1" label="Type" max_length="40" name="type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Fruit" sequence="10" value="fruit"/>
+                <element inactive_on_update="false" label="Vegetable" sequence="20" value="vegetable"/>
+                <element inactive_on_update="false" label="Herb" sequence="30" value="herb"/>
+                <element inactive_on_update="false" label="Flower" sequence="40" value="flower"/>
+                <element inactive_on_update="false" label="Other" sequence="50" value="other"/>
+            </choice>
+        </element>
+    </element>
+</database>
